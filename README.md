@@ -1,6 +1,6 @@
 # Hi, I'm Luis 👋
 
-Computer engineering student at Universidad de Almería. I learn by
+Computer Science student at Universidad de Almería. I learn by
 building and running things myself.
 
 **Projects:**
