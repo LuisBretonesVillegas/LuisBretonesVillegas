@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Luis 👋
 
-<!--
-**LuisBretonesVillegas/LuisBretonesVillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering student at Universidad de Almería. I learn by
+building and running things myself.
 
-Here are some ideas to get you started:
+**Projects:**
+-  **ED50** — self-hosted infrastructure on Proxmox: reverse proxy with
+  wildcard TLS, DNS filtering, offsite backups (3-2-1), remote access
+  via Tailscale. Documented in `ed50-infra`
+-  **Vigía** — monitoring and alerting app for my homelab: FastAPI +
+  SQLite backend, React PWA, Telegram notifications, audited actions
+  with two-step confirmation
+-  Studying for the RHCSA certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Writing:** infrastructure decisions and build logs at [luisbretones.dev](https://luisbretones.dev)
+
+📫 [LinkedIn](https://www.linkedin.com/in/luisbretonesvillegas/)
